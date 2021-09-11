@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav nav{
+    margin-right: 230px;
+    margin-top: 40px;
+}
+.nav nav ul li{
+    list-style-type: none;
+    
+    
+}
+.nav nav ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 15px;
+    color: rgb(65, 62, 62);
+    padding: 10px 20px;
+    display: block;
+    font-weight: 600;
+}
+.nav nav ul li a:hover{
+    color: coral;
+    text-decoration: underline;
+}
+.btn-mystyle{
+    color: coral;
+    background-color: white;
+    border-radius: 25px;
+    padding: 12px 20px;
+    border: none;
+    box-shadow: 2px 2px 15px rgb(219, 217, 217);
+    font-size: 15px;
+    position: absolute;
+    top: 37px;
+    right: 230px;
+}
+.btn-mystyle:hover{
+    background-color: coral;
+}
+.btn-mystyle1{
+    color: white;
+    background-color: #ffcc66;
+    width: 200px;
+    border-radius: 25px;
+    padding: 12px 20px;
+    border: none;
+    font-size: 15px;
+    white-space: nowrap;
+    font-weight: 600;
+}
+.content1{
+    margin-top: 140px;
+    padding: 20px 0px;
+}
+.content1 h2{
+    color: #ffcc66;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.content1 p{
+    color: rgb(122, 122, 122);
+}
+.head-img img{
+    width: 95%;
+    margin-top: -300px;
+}
+.content2{
+    width: 48%;
+    margin: 0 auto;
+}
+.content2 h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+.content2 p{
+    font-size: 16px;
+    color: rgb(158, 157, 157);
+    margin-bottom: 50px;
+}
+
+.orange{
+    background-color: #ff6633;
+}
+.green{
+    background-color: #99cc33;
+}
+.yellow{
+    background-color: #ff9966;
+}
+.common{
+    margin-left: 35px;
+    color: white;
+    padding: 10px;
+    width: 250px;
+    height: 300px;
+}
+.common img{
+    margin: 30px 0px;
+    margin-left: 30px;
+    
+}
+.common h4{
+    margin-left: 25px;
+    font-weight: bold;
+
+}
+.body{
+    margin-top: 60px;
+    padding: 30px;
+}
+.scene > img{
+    width: 300px;
+    height: 300px;
+}
+.scene img:nth-child(2){
+    height: 310px;
+    width: 310px;
+    border: 10px solid rgb(192, 189, 189);
+    border-radius: 50%;
+    margin-left: -180px;
+    margin-top: 50px;
+}
+.cont{
+    width: 45%;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.cont h3{
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.cont p{
+    color: rgb(139, 138, 138);
+    font-size: 13px;
+    
+}
+.cont1 .sec1 p{
+    color: rgb(250, 188, 54);
+}
+.cont1 .sec1 h5{
+    color: rgb(250, 188, 54);
+    font-weight:bold;
+    font-size: 35px;
+}
+.cont1 .sec2 p{
+    color: rgb(250, 61, 54);
+}
+.cont1 .sec2 h5{
+    color: rgb(250, 61, 54);
+    font-weight:bold;
+    font-size: 35px;
+}
+.cont1 .sec3 p{
+    color: rgb(55, 209, 55);
+}
+.cont1 .sec3 h5{
+    color: rgb(55, 209, 55);
+    font-weight:bold;
+    font-size: 35px;
+}
+.sec1, .sec2, .sec3{
+    margin: 20px 20px;
+}
+.new{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 500px;
+}
+.card-title{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(48, 46, 46);
+}
+.card-title:hover{
+    color:#fabb3e;
+
+    
+   
+}
+.content4{
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.content5{
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.card{
+    height: 330px;
+    box-shadow: 2px 2px 7px rgb(218, 218, 218);
+}
+.foots{
+    background-color: rgb(23, 15, 29);
+}
+.side-1 {
+    color: white;
+    padding: 50px 0px;
+    width: 27%;
+    
+}
+.side-1 i{
+    font-size: 22px;
+    margin-left: 20px;
+}
+.side-1 p{
+    color: rgb(141, 141, 141);
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+   border-bottom: 1px solid rgb(141, 141, 141) ;
+}
+.side-2{
+    padding: 50px 0px;
+    width: 27%;
+}
+.side-2 h5{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.side-2 p{
+    color: rgb(141, 141, 141);
+    margin-top: 15px;
+    text-align: center;
+}
+.side-3 p{
+    color: rgb(141, 141, 141);
+    margin-top: 15px;
+    text-align: center;
+}
+.side-3{
+    padding: 50px 0px;
+    width: 27%;
+}
+
+.side-3 h5{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+.side-4 p{
+    color: rgb(141, 141, 141);
+    margin-top: 15px;
+}
+.side-4{
+    padding: 50px 0px;
+    width: 27%;
+}
+
+.side-4 h5{
+    font-weight: bold;
+    color: white;
+}
+.side-4 input{
+    padding: 5px 8px;
+}
+.side-4 button{
+    white-space: nowrap;
+}
+
+.footer{
+    background-color: rgb(20, 14, 24) ;
+    padding: 15px;
+}
+.footer p{
+    color: rgb(160, 160, 163);
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.footer nav ul li{
+    list-style: none;
+}
+.footer nav ul li a{
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+    display: block;
+    padding: 10px 15px;
+}
